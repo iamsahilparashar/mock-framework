@@ -1,0 +1,7 @@
+com/mock/resolver/AwsConfig.class
+com/mock/resolver/ResolverHandler.class
+com/mock/resolver/model/MockScenario.class
+com/mock/resolver/FixtureFetcher.class
+com/mock/resolver/ScenarioService.class
+com/mock/resolver/LatencyInjector.class
+com/mock/resolver/ResolverApplication.class
